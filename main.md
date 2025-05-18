@@ -1,3 +1,4 @@
 # Vegetable Soup Recipe
-* Cook soup
+* Cut Vegetables
+* Add Veggies -> Cook soup
 * Serve & cleanup
