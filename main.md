@@ -1,3 +1,4 @@
 # Vegetable Soup Recipe
-* Cook soup
+* Cook soup -> Ready with Sauce?
+* Add Secret Sauce
 * Serve & cleanup
